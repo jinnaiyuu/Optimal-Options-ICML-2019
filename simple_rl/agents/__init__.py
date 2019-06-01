@@ -24,7 +24,6 @@ from simple_rl.agents.RandomContAgentClass import RandomContAgent
 try:
         from simple_rl.agents.func_approx.DQNAgentClass import DQNAgent
         from simple_rl.agents.func_approx.DDPGAgentClass import DDPGAgent
-        from simple_rl.agents.func_approx.DiaynClass import DiaynAgent
 except ImportError:
         print("Warning: Tensorflow not installed.")
         pass
