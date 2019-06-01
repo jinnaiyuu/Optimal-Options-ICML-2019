@@ -1,0 +1,12 @@
+--ww--------wwwwwwwwwwww------------wwwwwwwwwwww------------wwwwwwwwwwww---ww-------
+--w---------wwwwwwwwwwww------------wwwwwwwwwwww------------wwwwwwwwwwww----w-------
+--w---------wwwwwwwwwwww----w---w---wwwwwwwwwwww---wwwww----wwwwwwwwwwww----w-------
+--w---------wwwwwwwwwwww----wwwww---wwwwwwwwwwww---w---w----wwwwwwwwwwww----w-------
+--ww----ww--wwwwwwwwwwww------------wwwwwwwwwwww------------wwwwwwwwwwww---ww---ww--
+--------w---wwwwwwwwwwww------------wwwwwwwwwwww------------wwwwwwwwwwww---------w--
+--------w---wwwwwwwwwwww------------wwwwwwwwwwww------------wwwwwwwwwwww---------w--
+--ww----w---wwwwwwwwwwww------------wwwwwwwwwwww------------wwwwwwwwwwww---ww----w--
+--w-----ww--wwwwwwwwwwwww---w--w---wwwwwwwwwwwwwwwwww--wwwwwwwwwwwwwwwww----w---ww--
+--w---------wwwwwwwwwwwwwwwww--wwwwwwwwwwwwwwwwww---w--w---wwwwwwwwwwwww----w-------
+--w---------wwwwwwwwwwww------------wwwwwwwwwwww------------wwwwwwwwwwww----w-------
+--ww--------wwwwwwwwwwww------------wwwwwwwwwwww------------wwwwwwwwwwww---ww-------
