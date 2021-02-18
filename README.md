@@ -2,9 +2,9 @@
 
 Code for experiments on generating options for planning and reinforcement learning in our 2019 ICML papers:
 
-[Jinnai Y. Park JW, Abel D, Konidaris G. 2019. Discovering Options for Exploration by Minimizing Cover Time. Proc. 36th International Conference on Machine Learning.](https://jinnaiyuu.github.io/pdf/papers/ICML-19-rl.pdf)
+[Jinnai Y. Park JW, Abel D, Konidaris G. 2019. Discovering Options for Exploration by Minimizing Cover Time. Proc. 36th International Conference on Machine Learning.](http://proceedings.mlr.press/v97/jinnai19b/jinnai19b.pdf)
 
-[Jinnai Y, Abel D, Hershkowitz E, Littman M, Konidaris G. 2019. Finding Options that Minimize Planning Time. Proc. 36th International Conference on Machine Learning](https://jinnaiyuu.github.io/pdf/papers/ICML-19-plan.pdf)
+[Jinnai Y, Abel D, Hershkowitz E, Littman M, Konidaris G. 2019. Finding Options that Minimize Planning Time. Proc. 36th International Conference on Machine Learning](http://proceedings.mlr.press/v97/jinnai19a/jinnai19a.pdf)
 
 
 # Dependencies
